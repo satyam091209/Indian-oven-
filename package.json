@@ -527,13 +527,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MobinaJafarian/Laravel_Restaurant_Reservation.git"
+    "url": "https://github.com/satyam091209/Indian-oven-"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MobinaJafarian/Laravel_Restaurant_Reservation/issues"
-  },
-  "homepage": "https://github.com/MobinaJafarian/Laravel_Restaurant_Reservation#readme"
+  "author": "satyam bhaskar",
+  "license": "ISC"
+ 
 }
